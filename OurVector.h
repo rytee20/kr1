@@ -224,7 +224,7 @@ const Type& OurVector<Type>::operator[](long index) const
     return element[index];
 }
 
-int main()
+/*int main()
 {
     int choise;
     bool not_ok;
@@ -292,4 +292,4 @@ int main()
         }
     }
     return 0;
-}
+}*/
